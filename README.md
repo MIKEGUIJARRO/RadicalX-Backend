@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://www.radicalx.co/">
-    <img src="images/logo.png" alt="Logo">
+    <img src="images/Logo.png" alt="Logo">
   </a>
 
 <h3 align="center">Web Development Internship</h3>
@@ -111,7 +111,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This project requires an updated version of npm.
 * npm
   ```sh
   npm install npm@latest -g
@@ -119,10 +119,10 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a firebase API Key at [https://firebase.google.com/](https://firebase.google.com/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/MIKEGUIJARRO/RadicalX-Backend
    ```
 3. Install NPM packages
    ```sh
@@ -143,6 +143,21 @@ This is an example of how to list things you need to use the software and how to
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- Diagrams -->
+## Diagrams
+
+[![Product Name Screen Shot][data-model-screenshot]](https://example.com)
+Little description of image
+
+[![Product Name Screen Shot][routing-system-screenshot]](https://example.com)
+Little description of image
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,9 +207,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Mike Guijarro - [@mikeguijarro](https://twitter.com/mikeguijarro) - mikeguijarrodev@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/MIKEGUIJARRO/RadicalX-Backend](https://github.com/MIKEGUIJARRO/RadicalX-Backend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -226,6 +241,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
+[data-model-screenshot]: images/dataModel.png
+[routing-system-screenshot]: images/routingSystem.png
 [Firebase]: https://img.shields.io/badge/firebase-F6820D?style=for-the-badge&logo=firebase&logoColor=white
 [Firebase-url]: https://firebase.google.com/
 [Express]: https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express&logoColor=white
